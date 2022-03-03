@@ -9,6 +9,7 @@ import { useState, useEffect } from 'react';
 //import Article from './components/Article';
 import Character from './components/characters/index.jsx';
 import './index.css';
+import './App.css';
 import Buscador from './components/buscador';
 
 export default function App() {
