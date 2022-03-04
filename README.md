@@ -3,7 +3,7 @@
 
 ![img](https://github.com/ricaza81/rick-morty-react-native/raw/master/app.gif)
 
-## API + documentación >>> https://rickandmortyapi.com/api/character
+## API + documentación >>> https://rickandmortyapi.com/
 Para obtener la lista de caracteres utilice la siguiente URL: https://rickandmortyapi.com/api/character
 
 Para obtener más información sobre la estructura JSON, consulte: https://rickandmortyapi.com/api/character
