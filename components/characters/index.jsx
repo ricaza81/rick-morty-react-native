@@ -3,7 +3,7 @@ import Paginations from '../paginations/index.jsx';
 
 const Character = props => {
 	const { character, info } = props.character;
-	let base_url = '/characters/';
+	let base_url = '/character/';
 
 	function statusCharacter(status){
 		switch (status) {
