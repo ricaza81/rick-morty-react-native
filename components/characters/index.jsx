@@ -3,7 +3,7 @@ import Paginations from '../paginations/index.jsx';
 
 const Character = props => {
 	const { character, info } = props.character;
-	let base_url = '/character/';
+	let base_url = 'https://rickandmortyapi.com/api/character/';
 
 	function statusCharacter(status){
 		switch (status) {
