@@ -1,7 +1,7 @@
 # Rick and Morty API
 ## React Native
 
-![img](https://github.com/ricaza81/rick-morty-react-native/raw/master/browser.gif)
+![img](https://github.com/ricaza81/rick-morty-react-native/raw/master/app.gif)
 
 ## API + documentación >>> https://rickandmortyapi.com/api/character
 Para obtener la lista de caracteres utilice la siguiente URL: https://rickandmortyapi.com/api/character
