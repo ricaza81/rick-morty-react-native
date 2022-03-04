@@ -28,8 +28,9 @@ const Character = props => {
 								<div className="image">
 									<img src={character.image} alt={character.name} />
 								</div>
+								
 								<div className="info">
-									<h2>{character.name}</h2>
+									<h2><a href={'/characters/{id}'} target="_blank">{character.name}</a></h2>
 									<p className="status">
 										{statusCharacter(character.status)}
 										{character.status} -
