@@ -1,9 +1,9 @@
 # Rick and Morty API
 
-## Get a feed from >>> https://rickandmortyapi.com/api/character
-To obtain the list of posts of a subreddit use the following URL: https://rickandmortyapi.com/api/character
+## API + documentación >>> https://rickandmortyapi.com/api/character
+Para obtener la lista de caracteres utilice la siguiente URL: https://rickandmortyapi.com/api/character
 
-For more information about the JSON structure see: https://rickandmortyapi.com/api/character
+Para obtener más información sobre la estructura JSON, consulte: https://rickandmortyapi.com/api/character
 
 # Instalación
 ### 1. Git clone
