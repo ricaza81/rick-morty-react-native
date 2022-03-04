@@ -3,6 +3,7 @@ import Paginations from '../paginations/index.jsx';
 
 const Character = props => {
 	const { character, info } = props.character;
+	let base_url = '/characters/';
 
 	function statusCharacter(status){
 		switch (status) {
@@ -30,7 +31,7 @@ const Character = props => {
 								</div>
 								
 								<div className="info">
-									<h2><a href={'/characters/{id}'} target="_blank">{character.name}</a></h2>
+									<h2><a href={base_url + character.id } target="_blank">{character.name}</a></h2>
 									<p className="status">
 										{statusCharacter(character.status)}
 										{character.status} -
